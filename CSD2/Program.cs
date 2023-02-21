@@ -37,3 +37,4 @@ for (i = 0; i <=4; i++)
 Console.WriteLine("已通過 人數：" + Yes_pass + ", 平均：" + Y_average.ToString("0.00"));
 Console.WriteLine("未通過 人數：" + No_pass + ", 平均：" + N_average.ToString("0.00"));
 Console.WriteLine("高於平均人數：" + j + ", 低於平均人數：" + k);
+Console.ReadLine();
